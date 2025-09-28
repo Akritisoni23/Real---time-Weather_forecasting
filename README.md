@@ -1,5 +1,6 @@
 
 **🌦️ Real-Time Weather Forecasting Dashboard** 
+
 Welcome to the Real-Time Weather Forecasting Dashboard Project repository! 🚀 This project presents a real-time weather analytics dashboard built using Power BI and live data fetched via weather APIs. Designed to provide up-to-date environmental insights for Guwahati, the dashboard visualizes current conditions, forecasts, and air quality metrics — ideal for travel planning, public safety, and health awareness.
 
 **📊 Dashboard Highlights**
@@ -19,7 +20,10 @@ Welcome to the Real-Time Weather Forecasting Dashboard Project repository! 🚀 
 - Air Quality Index (AQI):
 - Status: Good
 - AQI Value: 17
-- PM10: 17  PM2.5: 5  SO₂: 11  NO₂: 16
+- PM10: 17
+- PM2.5: 5
+- SO₂: 11
+-  NO₂: 16
 - Description: Air is clean and healthy
 - Sunrise & Sunset Times:
 - Sunrise: 05:41 AM
@@ -53,6 +57,5 @@ This project is licensed under the MIT License. Feel free to use, modify, or sha
 Hi! I'm **Akriti Soni**, an IT professional passionate about transforming raw data into meaningful, real-time insights.
 📬 Connect with me on LinkedIn: www.linkedin.com/in/akriti-soni-377660380
 
-Let me know if you'd like help adding setup instructions, embedding the dashboard preview, or linking to th
 
 
